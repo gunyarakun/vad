@@ -126,6 +126,7 @@ export const getDefaultRealTimeVADOptions: (
     ortConfig: undefined,
     model: DEFAULT_MODEL,
     workletOptions: {},
+    additionalAudioConstraints: {},
   }
 }
 
